@@ -1,3 +1,4 @@
 # test
-Used for testing purposes
-Created by Drew
+Used for testing purposes.
+
+Created by Drew.
